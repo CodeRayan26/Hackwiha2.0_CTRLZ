@@ -17,7 +17,7 @@ export default function Landing() {
                 <path d="M4.462 19.462c.42-.419.753-.89 1-1.394.453.213.902.434 1.347.661a6.743 6.743 0 01-1.286 1.794.75.75 0 11-1.06-1.06z" />
               </svg>
             </div>
-            <span className="logo-text">Name</span>
+            <span className="logo-text">ProPath</span>
           </div>
           <div className="search-container">
             <svg className="search-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">

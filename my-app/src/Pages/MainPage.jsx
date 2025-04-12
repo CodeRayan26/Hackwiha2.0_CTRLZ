@@ -12,7 +12,7 @@ function MainPage() {
               <path d="M5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82z" />
             </svg>
           </div>
-          <h1 className="logo-text">Name</h1>
+          <h1 className="logo-text">ProPath</h1>
         </div>
 
         <div className="search-container">
