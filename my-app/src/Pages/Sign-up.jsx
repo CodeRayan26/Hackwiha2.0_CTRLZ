@@ -31,15 +31,18 @@ export default function SignUp() {
             placeholder="Password"
             className="input-field"
           />
-          <button
-            type="submit"
-            className="submit-button"
-          >
-            Sign Up
-          </button>
+
+          <Link to = '/MainPage'>
+            <button
+              type="submit"
+              className="submit-button"
+              >
+              Sign Up
+            </button>
+          </Link>
 
           <p className="login-link">
-            Already have an account? <a href="/login" className="login-text">Log in</a>
+            Already have an account? <a href="/Log-in" className="login-text">Log in</a>
           </p>
         </form>
       </div>
